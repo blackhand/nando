@@ -1,0 +1,8 @@
+*.[oa]
+*~
+.installed.cfg
+.*.swp
+*.py[co]
+bin/*
+app/lib/dist/*
+
