@@ -1,8 +1,9 @@
 *.[oa]
 *~
 .installed.cfg
+.ropeproject/*
 .*.swp
 *.py[co]
 bin/*
 app/lib/dist/*
-
+var/parts/*

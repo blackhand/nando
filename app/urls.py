@@ -3,5 +3,5 @@
 from tipfy import Rule
 
 rules = [
-    Rule('/', name='hello-world', handler='hello_world.handlers.HelloWorldHandler'),
+    Rule('/', name='homepage', handler='nando.handlers.HomePage'),
 ]
